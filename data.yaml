@@ -1,0 +1,12 @@
+path: C:/Users/VijaySegunasi/pizza_yolo_model
+
+train: images
+val: images
+
+nc: 4
+
+names:
+  0: bianca
+  1: hawaiian
+  2: manager_choice
+  3: pepporoni
