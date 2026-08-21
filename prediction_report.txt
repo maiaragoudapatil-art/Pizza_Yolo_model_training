@@ -1,56 +1,58 @@
+Total Images Tested: 16
 
-Image: C:\Users\VijaySegunasi\pizza_yolo_model\test_images\AMB_2023-10-07_5PM-8PM_173331_2_PIZZA.jpg
-Detected: bianca, Confidence: 0.99
+Image 1: C:\Users\VijaySegunasi\pizza_yolo_model\test_images\AMB_2023-10-07_5PM-8PM_173331_2_PIZZA.jpg
+  - Detected: bianca, Confidence: 99.14%
 
-Image: C:\Users\VijaySegunasi\pizza_yolo_model\test_images\AMB_2023-10-07_5PM-8PM_185932_40_PIZZA.jpg
-Detected: pepporoni, Confidence: 1.00
-Detected: bianca, Confidence: 0.99
+Image 2: C:\Users\VijaySegunasi\pizza_yolo_model\test_images\AMB_2023-10-07_5PM-8PM_185932_40_PIZZA.jpg
+  - Detected: pepporoni, Confidence: 99.63%
+  - Detected: bianca, Confidence: 99.29%
 
-Image: C:\Users\VijaySegunasi\pizza_yolo_model\test_images\AMB_2023-10-07_8PM-12AM_201813_198_PIZZA.jpg
-Detected: bianca, Confidence: 0.43
+Image 3: C:\Users\VijaySegunasi\pizza_yolo_model\test_images\AMB_2023-10-07_8PM-12AM_201813_198_PIZZA.jpg
+  - Detected: bianca, Confidence: 43.10%
 
-Image: C:\Users\VijaySegunasi\pizza_yolo_model\test_images\AMB_2023-10-08_10AM-5PM_113107_23_PIZZA.jpg
-Detected: manager_choice, Confidence: 0.40
-Detected: pepporoni, Confidence: 0.34
-Detected: bianca, Confidence: 0.33
+Image 4: C:\Users\VijaySegunasi\pizza_yolo_model\test_images\AMB_2023-10-08_10AM-5PM_113107_23_PIZZA.jpg
+  - Detected: manager_choice, Confidence: 39.93%
+  - Detected: pepporoni, Confidence: 34.01%
+  - Detected: bianca, Confidence: 32.86%
 
-Image: C:\Users\VijaySegunasi\pizza_yolo_model\test_images\AMB_2023-10-08_10AM-5PM_142248_51_PIZZA.jpg
-Detected: pepporoni, Confidence: 0.98
+Image 5: C:\Users\VijaySegunasi\pizza_yolo_model\test_images\AMB_2023-10-08_10AM-5PM_142248_51_PIZZA.jpg
+  - Detected: pepporoni, Confidence: 98.40%
 
-Image: C:\Users\VijaySegunasi\pizza_yolo_model\test_images\AMB_2023-10-08_5PM-8PM_180735_33_PIZZA.jpg
-Detected: pepporoni, Confidence: 0.96
+Image 6: C:\Users\VijaySegunasi\pizza_yolo_model\test_images\AMB_2023-10-08_5PM-8PM_180735_33_PIZZA.jpg
+  - Detected: pepporoni, Confidence: 95.76%
 
-Image: C:\Users\VijaySegunasi\pizza_yolo_model\test_images\AMB_2023-10-08_5PM-8PM_193804_373_PIZZA.jpg
-Detected: bianca, Confidence: 0.99
+Image 7: C:\Users\VijaySegunasi\pizza_yolo_model\test_images\AMB_2023-10-08_5PM-8PM_193804_373_PIZZA.jpg
+  - Detected: bianca, Confidence: 98.54%
 
-Image: C:\Users\VijaySegunasi\pizza_yolo_model\test_images\AMB_2023-10-08_5PM-8PM_193915_378_PIZZA.jpg
-Detected: bianca, Confidence: 0.97
+Image 8: C:\Users\VijaySegunasi\pizza_yolo_model\test_images\AMB_2023-10-08_5PM-8PM_193915_378_PIZZA.jpg
+  - Detected: bianca, Confidence: 97.13%
 
-Image: C:\Users\VijaySegunasi\pizza_yolo_model\test_images\AMB_2023-10-08_8PM-12AM_201041_77_PIZZA.jpg
-Detected: pepporoni, Confidence: 0.99
-Detected: pepporoni, Confidence: 0.86
+Image 9: C:\Users\VijaySegunasi\pizza_yolo_model\test_images\AMB_2023-10-08_8PM-12AM_201041_77_PIZZA.jpg
+  - Detected: pepporoni, Confidence: 99.20%
+  - Detected: pepporoni, Confidence: 86.50%
 
-Image: C:\Users\VijaySegunasi\pizza_yolo_model\test_images\AMB_2023-10-08_8PM-12AM_215854_105_PIZZA.jpg
-Detected: bianca, Confidence: 1.00
+Image 10: C:\Users\VijaySegunasi\pizza_yolo_model\test_images\AMB_2023-10-08_8PM-12AM_215854_105_PIZZA.jpg
+  - Detected: bianca, Confidence: 99.63%
 
-Image: C:\Users\VijaySegunasi\pizza_yolo_model\test_images\AMB_2023-10-09_10AM-5PM_113358_6_PIZZA.jpg
-Detected: bianca, Confidence: 0.83
-Detected: hawaiian, Confidence: 0.30
+Image 11: C:\Users\VijaySegunasi\pizza_yolo_model\test_images\AMB_2023-10-09_10AM-5PM_113358_6_PIZZA.jpg
+  - Detected: bianca, Confidence: 82.81%
+  - Detected: hawaiian, Confidence: 30.29%
 
-Image: C:\Users\VijaySegunasi\pizza_yolo_model\test_images\AMB_2023-10-09_10AM-5PM_133113_21_PIZZA.jpg
-Detected: bianca, Confidence: 0.62
-Detected: pepporoni, Confidence: 0.48
+Image 12: C:\Users\VijaySegunasi\pizza_yolo_model\test_images\AMB_2023-10-09_10AM-5PM_133113_21_PIZZA.jpg
+  - Detected: bianca, Confidence: 62.19%
+  - Detected: pepporoni, Confidence: 48.19%
 
-Image: C:\Users\VijaySegunasi\pizza_yolo_model\test_images\AMB_2023-10-09_12AM-7AM_002950_35_PIZZA.jpg
-Detected: hawaiian, Confidence: 0.95
+Image 13: C:\Users\VijaySegunasi\pizza_yolo_model\test_images\AMB_2023-10-09_12AM-7AM_002950_35_PIZZA.jpg
+  - Detected: hawaiian, Confidence: 94.50%
 
-Image: C:\Users\VijaySegunasi\pizza_yolo_model\test_images\AMB_2023-10-09_5PM-8PM_194423_37_PIZZA.jpg
-Detected: bianca, Confidence: 0.48
-Detected: pepporoni, Confidence: 0.36
+Image 14: C:\Users\VijaySegunasi\pizza_yolo_model\test_images\AMB_2023-10-09_5PM-8PM_194423_37_PIZZA.jpg
+  - Detected: bianca, Confidence: 48.30%
+  - Detected: pepporoni, Confidence: 35.86%
 
-Image: C:\Users\VijaySegunasi\pizza_yolo_model\test_images\AMB_2023-10-10_5PM-8PM_191903_5_PIZZA.jpg
-Detected: hawaiian, Confidence: 0.94
+Image 15: C:\Users\VijaySegunasi\pizza_yolo_model\test_images\AMB_2023-10-10_5PM-8PM_191903_5_PIZZA.jpg
+  - Detected: hawaiian, Confidence: 94.07%
 
-Image: C:\Users\VijaySegunasi\pizza_yolo_model\test_images\AMB_2023-10-10_5PM-8PM_195531_43_PIZZA.jpg
-Detected: pepporoni, Confidence: 0.82
-Detected: manager_choice, Confidence: 0.49
+Image 16: C:\Users\VijaySegunasi\pizza_yolo_model\test_images\AMB_2023-10-10_5PM-8PM_195531_43_PIZZA.jpg
+  - Detected: pepporoni, Confidence: 81.91%
+  - Detected: manager_choice, Confidence: 49.33%
+

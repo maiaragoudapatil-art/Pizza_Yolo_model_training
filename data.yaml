@@ -6,7 +6,7 @@ val: images
 nc: 4
 
 names:
-  0: bianca
-  1: hawaiian
-  2: manager_choice
-  3: pepporoni
+  0: pepporoni
+  1: manager_choice
+  2: hawaiian
+  3: bianca3
