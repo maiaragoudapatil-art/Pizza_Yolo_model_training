@@ -30,6 +30,6 @@ with open("prediction_report.txt", "w") as f:
 
         f.write("\n")
 
-print("Prediction complete!")
+print("Prediction complete done for Yolo!")
 print("Images saved in: prediction_results")
 print("Report saved as: prediction_report.txt")
